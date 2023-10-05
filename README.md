@@ -8,9 +8,8 @@
   - ### region - Japan
 
 - ## Job 
-  - software engineer
-  - web developper
-  - python application developer
+  - Software engineer 
+  - Riv.inc CTO
 
 - ## I ♡ ...
   - Programming
