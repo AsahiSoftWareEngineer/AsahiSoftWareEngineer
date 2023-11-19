@@ -4,7 +4,7 @@
 
 - ## basic infomation
   - ### name - Asahi Fujisawa
-  - ### age - 20 years old.(2022)
+  - ### age - 21 years old.(2023)
   - ### region - Japan
 
 - ## Job 
