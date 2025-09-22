@@ -19,6 +19,10 @@
   - Coffee☕️
   - Reading book📖
   - Listening music🎶
+  - BLACK PINK
+  - aespa
+ 
+    
 <br>
 <br>
 <br>
